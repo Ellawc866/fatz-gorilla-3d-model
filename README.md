@@ -23,7 +23,7 @@ The project focused on 3D modelling, mechanical forms, proportions, detailing an
 
 ### Hero Render
 
-![Fatz Gorilla](images/hero-render.png)
+![Hero Render](images/hero-render.png)
 
 ### Front View
 
