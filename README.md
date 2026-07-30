@@ -23,23 +23,23 @@ The project focused on 3D modelling, mechanical forms, proportions, detailing an
 
 ### Hero Render
 
-![Hero Render](images/hero-render.png)
+![Hero Render](Images/hero-render.png)
 
 ### Front View
 
-![Front View](images/front-view.png)
+![Front View](Images/front-view.png)
 
 ### Side View
 
-![Side View](images/side-view.png)
+![Side View](Images/side-view.png)
 
 ### Top View
 
-![Top View](images/top-view.png)
+![Top View](Images/top-view.png)
 
 ### Back View 
 
-![Back View](images/back-view.png)
+![Back View](Images/back-view.png)
 
 ## 🎥 Video Showcase
 
