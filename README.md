@@ -33,25 +33,19 @@ The project focused on 3D modelling, mechanical forms, proportions, detailing an
 
 ![Side View](images/side-view.png)
 
-### Detail View
+### Top View
 
-![Detail View](images/detail-view.png)
+![Top View](images/top-view.png)
+
+### Back View 
+
+![Back View](images/back-view.png)
 
 ## 🎥 Video Showcase
 
 A short showcase video demonstrating the completed 3D model.
 
 Youtube Link: https://www.youtube.com/shorts/Zw0AB3Q9fxs 
-
-## Modelling Process
-
-### Blender Viewport
-
-![Blender Viewport](images/blender-viewport.png)
-
-### Wireframe
-
-![Wireframe](images/wireframe.png)
 
 ## Physical Prototype
 
