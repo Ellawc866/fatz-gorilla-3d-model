@@ -51,7 +51,7 @@ Youtube Link: https://www.youtube.com/shorts/Zw0AB3Q9fxs
 
 A test print of the model was produced to evaluate the physical appearance, proportions and printability of the design.
 
-![3D Printed Prototype](images/printed-prototype.jpg)
+![3D Printed Prototype](Prototype/prototype-image.jpeg)
 
 ## Commercial Availability
 
